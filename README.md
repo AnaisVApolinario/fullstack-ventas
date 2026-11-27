@@ -6,9 +6,10 @@ Aplicación fullstack para gestionar productos y registrar ventas, con autentica
 
 ## 🎬 Demo
 
-[![Ver demo en video](docs/login.png)](<LINK-DE-TU-VIDEO>)
+[![Ver demo en video](docs/login.png)](https://github.com/user-attachments/assets/afe1e515-fc01-496a-8a52-97603706b787)
 
-▶️ **[Ver video de la demo](<LINK-DE-TU-VIDEO>)**
+▶️ **[Ver video de la demo](https://github.com/user-attachments/assets/afe1e515-fc01-496a-8a52-97603706b787)**
+
 
 ## 📸 Capturas
 
