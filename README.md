@@ -2,7 +2,24 @@
 
 Aplicación fullstack para gestionar productos y registrar ventas, con autenticación y roles.
 
-**Stack:** Java 17 · Spring Boot 3 · Spring Security (JWT) · Spring Data JPA · PostgreSQL · Next.js 14 (TypeScript) · Docker · GitHub Actions
+**Stack:** Java 17 · Spring Boot 3 · Spring Security (JWT) · Spring Data JPA · PostgreSQL · Next.js 14 (TypeScript) · Docker
+
+## 🎬 Demo
+
+[![Ver demo en video](docs/login.png)](<LINK-DE-TU-VIDEO>)
+
+▶️ **[Ver video de la demo](<LINK-DE-TU-VIDEO>)**
+
+## 📸 Capturas
+
+| Login | Punto de venta |
+| --- | --- |
+| ![Login](docs/login.png) | ![Punto de venta](docs/ventas.png) |
+
+| Pago en efectivo | Gestión de productos |
+| --- | --- |
+| ![Ticket](docs/ticket.png) | ![Productos](docs/productos.png) |
+
 
 ## Funcionalidades
 
